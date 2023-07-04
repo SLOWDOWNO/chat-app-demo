@@ -85,3 +85,4 @@ fabric.properties
 *.iml
 out
 gen
+*.class
